@@ -12450,38 +12450,38 @@ task.spawn(function()
 end)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "PiHub",
+    Title = "CAT HUB",
     Text = "Script Loaded! ",
     Icon = "rbxassetid://18899804355",
     Duration = 1
 })
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "PiHub",
-    Text = "discord.gg/25ms",
+    Title = "CAT HUB",
+    Text = "Created by cat jack",
     Icon = "rbxassetid://18899804355",
     Duration = 1
 })
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "PiHub",
-    Text = "discord.gg/25ms",
+    Title = "CAT HUB",
+    Text = "https://discord.gg/AdKTVCdEm",
     Icon = "rbxassetid://18899804355",
     Duration = 1
 })
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "PiHub",
-    Text = "discord.gg/25ms",
+    Title = "CAT HUB",
+    Text = "https://discord.gg/AdKTVCdEm",
     Icon = "rbxassetid://18899804355",
     Duration = 1
 })
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "PiHub",
-    Text = "discord.gg/25ms",
+    Title = "CAT HUB",
+    Text = "https://discord.gg/AdKTVCdEm",
     Icon = "rbxassetid://18899804355",
     Duration = 1
 })
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "PiHub",
-    Text = "discord.gg/25ms",
+    Title = "CAT HUB",
+    Text = "https://discord.gg/AdKTVCdEm",
     Icon = "rbxassetid://18899804355",
     Duration = 1
 })
