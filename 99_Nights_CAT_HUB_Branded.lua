@@ -17,7 +17,7 @@ library:CreateWindow({
 		FileName = "IliankYTB",-- File name for the data saver,you can change it
 	},
 	Discord = {
-		Enabled = false,--enable to copy the discord
+		Enabled = true,--enable to copy the discord
 		DiscordLink = "https://discord.gg/bRdE4sfddp",-- put thr entire Link of discord
 		RememberJoin = false,-- Set this ti false to make them copy the link every time they load the script
 		Duration = 5,-- 5 is the default you can change the number only for remember join
